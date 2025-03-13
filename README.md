@@ -16,7 +16,7 @@
 
 ---
 
-## 🔥 Languages | Frameworks | Tools
+## 🔥 Languages | Frameworks | Tools 🔥
 
 <p align="center">
   <!-- Top Row (Few Items) -->
